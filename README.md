@@ -23,7 +23,7 @@ Nerd Fonts, and a fully commented config file for easy customization.
 - Semi-transparent background with hot-reload opacity control.
 - Inactive window dimming for split layouts.
 - Custom keybindings for splits, tabs, copy/paste, and opacity.
-- No inline comments — fully compatible with Kitty's config parser.
+- No inline comments - fully compatible with Kitty's config parser.
 
 ---
 
